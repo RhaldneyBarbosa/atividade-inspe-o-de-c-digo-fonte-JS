@@ -1,0 +1,14 @@
+EXEMPLO 1
+
+Botão de pesquisa do Legião dos Herois: input vai receber o assunto que o usuário deseja encontar sobre determinado tema.
+
+<input type="text" name="s" placeholder="Pesquisar..." value="">
+
+vai retornar o assunto pesquisado caso esta faça parte do banco de dados do site.
+
+
+EXEMPLO 2
+
+Botão de menu lateral do site quatro rodas, depoi sde selecionado apresentará varias opções ao usuário.
+
+ <aside class="sidebarMenu">.
